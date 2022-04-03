@@ -1,8 +1,3 @@
-﻿#include <iostream>
-#include <vector>
-
-
-
 void bubble_sort(std::vector<int>& arr){
 	bool is_sorted = false;
 	while (is_sorted != true) {
